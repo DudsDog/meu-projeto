@@ -1,6 +1,12 @@
-print('hello git e VScode') 
 
-mensagem ='olá mundo' 
+mensagem ='hello world!' 
 print(mensagem)
+modificação = 'Utilizando o  vscode'
+print(modificação) 
+mensagem_completa = mensagem + ' ' + modificação
+print(mensagem_completa)    
+
+
+
 
 
