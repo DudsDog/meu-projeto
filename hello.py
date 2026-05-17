@@ -1,13 +1,9 @@
+MAIS_UMA_MUDANÇA = 'Mais uma mudança para testar o git'
+print(MAIS_UMA_MUDANÇA)
 
-mensagem ='hello world!' 
-print(mensagem)
-modificação = 'Utilizando o  vscode'
-print(modificação) 
-mensagem_completa = mensagem + ' ' + modificação
-print(mensagem_completa)    
-mai = 'alô mundo!' \
-'print(mai)'
+MUDANÇA_FINAL = 'Essa é a última mudança para testar o git'
+print(MUDANÇA_FINAL)
 
 
-
-
+VAMOS_DE_NOVO = 'Vamos de novo para testar o git'
+print(VAMOS_DE_NOVO)
